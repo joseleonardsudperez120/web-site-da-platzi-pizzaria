@@ -124,7 +124,7 @@ body {
 }
 
 body {
-    background-image: url("imagens/fundo.png");
+    background-image: url("fundo.png");
     background-repeat: no-repeat;
     background-position: right top;
     background-size: 100%;
